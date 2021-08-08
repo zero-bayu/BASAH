@@ -7,7 +7,7 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/qwiklabs-gcp-04-aa90d8cfbb4b/locations/asia-northeast2/workerPools/BASAH'
+    name: 'projects/qwiklabs-gcp-04-aa90d8cfbb4b/locations/asia-northeast3/workerPools/BASAH'
     
 
 
